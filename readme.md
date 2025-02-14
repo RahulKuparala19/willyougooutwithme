@@ -1,6 +1,6 @@
 ![capoo flowers](./public/puppy-eyes.gif)
 
-## will you go out with me?????
+## will you go out with me?
 
 # run yourself 
 requires a fairly new v of **node** and **git**!
