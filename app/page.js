@@ -28,7 +28,7 @@ export default function page() {
   }
 
   return (
-    <div className='box'>
+    <div className='box' >
       <img alt='gumball' className='gif' src={`/${img}.gif`} />
       {how ? 'Hmmmph, Theres no choice!' : 'Will you go out with me?'}
       <div className='btns'>
